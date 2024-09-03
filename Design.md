@@ -173,5 +173,5 @@ This activity diagram illustrates the process flow when a user attempts to answe
 (Here you can insert the code examples and explanations for the implementation.)
 
 ## 8. Conclusion
-In this tutorial, we've walked through the process of designing a system similar to Stack Overflow. We covered the key requirements, use case diagrams, class diagrams, sequence diagrams, and activity diagrams. By following these steps, you can create a robust and scalable question-and-answer platform.
+
 ```
